@@ -7,7 +7,7 @@
 import numpy as np
 import pandas as pd
 
-df = pd.read_csv("E:/Anu/MyLearning/MachineLearning/MachineLearning/LoanPrediction/train.csv")
+df = pd.read_csv("../train.csv")
 
 #Reading the first few rows
 df.head()
